@@ -1,6 +1,6 @@
 import serial
 import serial.tools.list_ports
-import math
+import math, random
 
 class CreateSerial: # class for creating and reading serial data.
 
